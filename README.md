@@ -60,11 +60,10 @@ initially our html page will look like this:-
 ![Screenshot (31)_6](https://user-images.githubusercontent.com/114274665/192457097-c984c929-f05c-4262-8e16-c60966dfeab4.png)
 
 but after using proper CSS and javascript and adding images in the background our page will finally look like this:
-
-
-
-
-
+![Screenshot (37)](https://user-images.githubusercontent.com/114274665/192457758-86dcbe38-bebd-4181-9e4f-314ee6f157f4.png)
+![Screenshot (38)](https://user-images.githubusercontent.com/114274665/192457886-721c21d4-90c4-40bd-9a85-56cf9789d5a1.png)
+![Screenshot (40)](https://user-images.githubusercontent.com/114274665/192458002-13376243-bf46-45c7-a14c-81fe31e3c403.png)
+![Screenshot (41)](https://user-images.githubusercontent.com/114274665/192458076-cb4c0cbd-a2f9-4e2f-9d1a-ee60cd9f41e4.png)
 
 THANK YOU FOR VISITING
 HAPPY LEARNING
