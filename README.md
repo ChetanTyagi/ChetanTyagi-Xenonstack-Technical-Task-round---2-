@@ -52,6 +52,11 @@ Two options availabe on home page (i) Contact Us (ii) Log Out
 The accordingly you will be redirected to Contact US page Or Logout Page.
 
 =======================================================================================================================================================================
+inttially our html page will look like this:-
+![Screenshot (31)](https://user-images.githubusercontent.com/114274665/192452494-7837c915-206f-458f-84af-374618828878.png)
+
+
+
 
 THANK YOU FOR VISITING
 HAPPY LEARNING
