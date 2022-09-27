@@ -52,8 +52,16 @@ Two options availabe on home page (i) Contact Us (ii) Log Out
 The accordingly you will be redirected to Contact US page Or Logout Page.
 
 =======================================================================================================================================================================
-inttially our html page will look like this:-
-![Screenshot (31)](https://user-images.githubusercontent.com/114274665/192452494-7837c915-206f-458f-84af-374618828878.png)
+initially our html page will look like this:-
+![Screenshot (31)_5](https://user-images.githubusercontent.com/114274665/192456683-5a890517-080a-4812-acaa-66c58a66c6af.png)
+![Screenshot (31)_4](https://user-images.githubusercontent.com/114274665/192456740-a3660292-ee84-4753-ba13-d063388dc79d.png)
+![Screenshot (31)_3](https://user-images.githubusercontent.com/114274665/192456837-715d8d62-e7df-441e-8a92-edb09da8245c.png)
+![Screenshot (31)_2](https://user-images.githubusercontent.com/114274665/192456894-e47701c8-c2d6-44b5-bce4-34bc153ba579.png)
+![Screenshot (31)_6](https://user-images.githubusercontent.com/114274665/192457097-c984c929-f05c-4262-8e16-c60966dfeab4.png)
+
+but after using proper CSS and javascript and adding images in the background our page will finally look like this:
+
+
 
 
 
