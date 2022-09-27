@@ -1,16 +1,32 @@
+Welcome to the Readme of Chetan Tyagi Xenonstack Technical task
+Chetan Tyagi @ Xenonstack Technical Task round -2.  Here,
+Our task is to create a login logout flow which will be connected with Database on the following themes:
+a) Car Selling
+b) Bike Selling
+c) Mobile Selling
+d) Software Service
+e) Ecommerce
+f) College/uni App
 
-
-
-
-There are mainly 3 pages
-
+My theme is <>CAR SELLING</>
+in this Readme you will get to know about the languages that i've used and how to run run this repository on desktop or any mobile device...
+LANGUAGES that i've used :-
+----------------------------
+a)HTML
+b)CSS
+c)Javascript
+d)PHP
+-----------------------------
+There are mainly 3 PAGES :-
+___________________________
 sign-in/sign-up
 Homepage
 About Us / Contact Us
+___________________________
 The Languages which i have used are HTML, CSS, JavaScirpt and PHP The name of the website is "ChetanTyagi-Xenonstack-Technical-Task-round---2" which is based on the given topic Car Selling. The website is hosted on Github.
-
+=======================================================================================================================================================================
 How To ----->
-
+                   :-
 Run on local host
 
 Landing page -> Log-in page
@@ -22,5 +38,5 @@ Then the user will land on the Log in page.
 Two options availabe on home page (i) Contact Us (ii) Log Out
 
 The accordingly you will be redirected to Contact US page Or Logout Page.
-
+=======================================================================================================================================================================
 THANK YOU
