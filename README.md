@@ -7,7 +7,7 @@ There are mainly 3 pages
 sign-in/sign-up
 Homepage
 About Us / Contact Us
-The Languages which i have used are HTML, CSS, JavaScirpt and PHP The name of the website is "Xenonstack Round 2" which is based on the given topic Car Selling. The website is hosted on Github.
+The Languages which i have used are HTML, CSS, JavaScirpt and PHP The name of the website is "ChetanTyagi-Xenonstack-Technical-Task-round---2" which is based on the given topic Car Selling. The website is hosted on Github.
 
 How To ----->
 
