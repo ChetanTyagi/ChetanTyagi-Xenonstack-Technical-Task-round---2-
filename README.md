@@ -1,5 +1,5 @@
-Welcome to the Readme of Chetan Tyagi Xenonstack Technical task
-Chetan Tyagi @ Xenonstack Technical Task round -2.  Here,
+Welcome to the Readme of Chetan Tyagi Xenonstack Technical task..
+Here,
 Our task is to create a login logout flow which will be connected with Database on the following themes:
 a) Car Selling
 b) Bike Selling
