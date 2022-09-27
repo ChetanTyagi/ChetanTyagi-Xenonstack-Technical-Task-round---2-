@@ -50,4 +50,6 @@ Two options availabe on home page (i) Contact Us (ii) Log Out
 The accordingly you will be redirected to Contact US page Or Logout Page.
 
 =======================================================================================================================================================================
-THANK YOU
+
+THANK YOU FOR VISITING
+HAPPY LEARNING
