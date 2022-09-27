@@ -31,7 +31,7 @@ Homepage
 
 About Us / Contact Us
 ___________________________
-The Languages which i have used are HTML, CSS, JavaScirpt and PHP The name of the website is "ChetanTyagi-Xenonstack-Technical-Task-round---2" which is based on the given topic Car Selling. The website is hosted on Github.
+The name of the website is "ChetanTyagi-Xenonstack-Technical-Task-round---2" which is based on the given topic Car Selling. The website is hosted on Github.
 
 =======================================================================================================================================================================
 
